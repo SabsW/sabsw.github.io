@@ -77,6 +77,11 @@ a.top:link {
 
 a.top:hover {
   color: #8B9EB7;
+}
+
+a.top:active {
+  color: #916953;
+}
 
 /* .section-title::after {
   content: " [back to top]";
