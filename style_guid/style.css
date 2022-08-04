@@ -63,7 +63,7 @@ li a:active {
   padding: 10px;
 }
 
-.top {
+.nav_top {
   font-size: 14px;
   /* vertical-align: super; */
   text-align: center;
@@ -71,7 +71,8 @@ li a:active {
 }
 
 a.top:link {
-  color: #8e6c88;
+  color: red;
+  /* #8e6c88; */
   cursor: pointer;
 }
 
