@@ -70,9 +70,13 @@ li a:active {
   margin-top: 0;
 }
 
-a.top {
+a.top:link {
   color: #8e6c88;
+  cursor: pointer;
 }
+
+a.top:hover {
+  color: #8B9EB7;
 
 /* .section-title::after {
   content: " [back to top]";
